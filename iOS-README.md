@@ -28,7 +28,7 @@ Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_
 
 **GIF Link from Imgur**
 
-<img src="https://imgur.com/a/guuU5jf" width=250><br>
+!(GIF)[https://static01.bbi.io/2Wt9Tk.gif]
 
 ### Notes
 Describe any challenges encountered while building the app.
