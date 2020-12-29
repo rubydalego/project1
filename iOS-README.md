@@ -28,7 +28,8 @@ Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_
 
 **GIF Link from Imgur**
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/guuU5jf"  ><a href="//imgur.com/a/guuU5jf">IOS</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://imgur.com/a/uFSDMvC.GIF" width=250><br>
+
 
 ### Notes
 Describe any challenges encountered while building the app.
