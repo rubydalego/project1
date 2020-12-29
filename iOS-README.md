@@ -24,7 +24,7 @@ Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_
 
 **GIF Link from Own Repository**
 
-<img src="https://github.com/rubydalego/project1/blob/main/grader-task-ios.gif width=250><br>
+<img src="https://github.com/rubydalego/project1/blob/main/grader-task-ios.gif" width=250><br>
 
 **GIF Link from Imgur**
 
